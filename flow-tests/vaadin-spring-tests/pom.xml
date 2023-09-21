@@ -16,7 +16,7 @@
     <properties>
         <maven.deploy.skip>true</maven.deploy.skip>
         <maven.failsafe.plugin.version>3.0.0-M1</maven.failsafe.plugin.version>
-        <component.version>24.1.0.alpha2</component.version>
+        <component.version>24.1.4</component.version>
         <httpclient5.version>5.2.1</httpclient5.version>
         <nimbus-jose-jwt.version>9.31</nimbus-jose-jwt.version>
     </properties>
